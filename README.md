@@ -9,7 +9,7 @@
             font-family: Arial, sans-serif;
             text-align: center;
             background-color: #ffe6f2;
-            background-image: url('Nosotros.jpeg'); 
+            background-image: url('https://ibb.co/PsMQVJ4h'); 
             background-size: cover;
             background-position: center;
             padding: 100px;
